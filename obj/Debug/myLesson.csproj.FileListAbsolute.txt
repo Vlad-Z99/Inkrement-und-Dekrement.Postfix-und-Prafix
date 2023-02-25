@@ -1,0 +1,8 @@
+C:\Users\Gast31\source\repos\MyLessons\myLesson\bin\Debug\myLesson.exe.config
+C:\Users\Gast31\source\repos\MyLessons\myLesson\bin\Debug\myLesson.exe
+C:\Users\Gast31\source\repos\MyLessons\myLesson\bin\Debug\myLesson.pdb
+C:\Users\Gast31\source\repos\MyLessons\myLesson\obj\Debug\myLesson.csproj.AssemblyReference.cache
+C:\Users\Gast31\source\repos\MyLessons\myLesson\obj\Debug\myLesson.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gast31\source\repos\MyLessons\myLesson\obj\Debug\myLesson.csproj.CoreCompileInputs.cache
+C:\Users\Gast31\source\repos\MyLessons\myLesson\obj\Debug\myLesson.exe
+C:\Users\Gast31\source\repos\MyLessons\myLesson\obj\Debug\myLesson.pdb
